@@ -3,6 +3,7 @@ function MainHeader() {
         <header id="main-header">
             <div className='container'>
                 <h1>Tecsup</h1>
+                <p>Ismael Carrasco</p>
                 <p>Desarrollo de Videojuegos en Soluciones Cloud</p>
             </div>
         </header>
